@@ -7,4 +7,4 @@ Criar uma aplicação usando:
 - handlebars
 - Body-parser
 - Sequelize
-- 
+  
